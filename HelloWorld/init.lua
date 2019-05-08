@@ -1,0 +1,15 @@
+appname="HelloWorld"
+appver="1.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="com.andlua.demo"
+theme="Theme_Holo_Light_DarkActionBar"
+app_key=""
+app_channel=""
+developer=""
+description=""
+debugmode=true
+user_permission={
+  "WRITE_EXTERNAL_STORAGE"
+}

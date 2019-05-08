@@ -1,0 +1,21 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  layout_height="fill";
+  orientation="vertical";
+  {
+    ScrollView;
+    {
+      TextView;
+      id="xsw";
+      layout_width="fill";
+      Text="gg";
+      layout_height="fill";
+    };
+  };
+  {
+    Button;
+    text="按钮";
+    id="an";
+  };
+};
